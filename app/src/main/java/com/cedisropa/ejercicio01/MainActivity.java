@@ -30,6 +30,11 @@ public class MainActivity extends AppCompatActivity {
             btn_mostrar_Imagen.setEnabled(false);
             image.setVisibility(View.GONE);
 
+
+
+
+
+
         }
     }
 
